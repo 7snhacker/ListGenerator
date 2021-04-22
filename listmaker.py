@@ -15,6 +15,6 @@ while li == 0:
     
 
         
-r.close
+r.close()
  
     
